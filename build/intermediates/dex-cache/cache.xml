@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.2_e0f1b3e9eaab7f373d915e1add622a60b115660f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0412821e1cb1cd86cc20215c9decf787f9e85e3f">
+        <dex dex="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e69d245acab237b4cedd9462ae3e7e8c4517744a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bf470ffb1c32a6c816f94ac3ddae252da3ec34a3">
+        <dex dex="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7b16e3b07bef1f2a442cf22c74fd86f66968b648\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.3.0_22d1695a202c7dba7f9ad98db3fdb69634c8556f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\antonio.alves\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_8fe2a14ed07445930f7c41ec78900c7434772770\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_68c2a99ddab53efe6931ee01a34069e56c4f572e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-gridlayout-v7-23.3.0_31f90208acbdd026648f07d659142f8e94afb363\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\antonio.alves\AndroidStudioProjects\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_daebee6e507c7a93aed9d2981da92fa47f6195b9\classes.dex" />
+    </item>
+
+</items>
